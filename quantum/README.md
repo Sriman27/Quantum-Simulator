@@ -309,10 +309,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 📞 Support
 
 For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Email: team@quantum-sim.dev
+- Email: ksrimannarayanan@gmail.com
 - Check documentation: http://localhost:8080/swagger-ui.html
 
 ---
 
 **⚛️ Simulating the quantum future, one job at a time!**
+
